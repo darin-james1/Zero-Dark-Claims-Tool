@@ -1,3 +1,6 @@
 streamlit
 reportlab
 Pillow
+openai>=1.0.0
+streamlit
+reportlab
